@@ -1,4 +1,7 @@
-# gif-searcher
+# Una prueba de buscador para Giphy
+
+## Sample link
+[http://prueba.oclusion.net/] http://prueba.oclusion.net/
 
 ## Project setup
 ```
